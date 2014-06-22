@@ -1,2 +1,1 @@
 #! octave-interpreter-name -qf
-printf ("Hello, world!\n");
